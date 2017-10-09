@@ -454,6 +454,7 @@ a {
     background-color: white;
     transition-property: background-color;
     transition-duration: 700ms;
+    max-width: 80%;
   }
   #courses h4 {
     font-weight: 600;
